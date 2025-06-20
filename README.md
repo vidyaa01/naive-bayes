@@ -62,4 +62,4 @@ jupyter naive-bayes.ipynb
 ## Results
 - *Accuracy = 91.6*
 - [*Confusion Matrix*](output.png)
-- 
+
